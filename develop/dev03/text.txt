@@ -1,0 +1,14 @@
+101 abc roast
+2 apple pizza
+23 BALL 10
+99
+1000
+value
+Abc 2
+africa
+zoo
+cat
+Ball Ab
+Ball AA
+Ball 101 100
+Ball 101 200
